@@ -1,3 +1,1 @@
-# todo
-
-A new Flutter project.
+To do list using flutter
